@@ -1,0 +1,3 @@
+numpy
+pygame
+neat-python
