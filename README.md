@@ -11,6 +11,8 @@ And just run the flappy.py and see the magic happen.
 
 If you dont want to see the red lines then you can set DRAW_LINES=False in the starting of the program.
 
+Do visit my BLOG for Machine Learning Projects: https://machinelearningprojects.net/ai-learns-to-play-flappy-bird-game/
+
 
 ![](s1.png)
 
